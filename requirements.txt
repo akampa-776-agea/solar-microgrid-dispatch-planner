@@ -1,0 +1,7 @@
+# These libraries cover numerical computation, solving linear systems, plotting, CSV/data handling, testing and notebooks.
+numpy
+scipy
+matplotlib
+pandas
+pytest
+jupyter
